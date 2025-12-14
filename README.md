@@ -4,7 +4,7 @@ Paperback extensions for websites which use the generic Animace theme.
 
 ## Available Extensions
 
-None yet.
+- [Roliascan](https://roliascan.com)
 
 ## Installation
 
